@@ -2,14 +2,15 @@
 * {   margin: 0;   padding: 0;
   box-sizing: border-box; }
 body{ 
-    width:90%;
-    max-width:500px;
-    background-color: #ea6d99;
-    background-size: cover;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    z-index: 0;
-    height: 100vh;
+  background-color:#f1d5da；/*浅粉色*/
+Cext-align: contor
+font-family: Arial, sans-serif:
+margin:0;
+padding:0;
+display:flex;
+justify-content: center;
+align-items:center;
+height: 100vh;
 }
 .container { width：90%；/*适应手机屏幕宽度*/ 
              max-width：500p×；/* 最大宽度限制 */
