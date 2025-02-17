@@ -1,1 +1,7 @@
-
+/* 清除默认内外边距 */
+* {   margin: 0;   padding: 0;
+  box-sizing: border-box; }
+/* 清除列表项目符号 */
+li {
+  list-style: none;
+}
