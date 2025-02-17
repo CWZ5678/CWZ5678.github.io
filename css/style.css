@@ -11,6 +11,9 @@ body{
     z-index: 0;
     height: 100vh;
 }
+.container { width：90%；/*适应手机屏幕宽度*/ 
+             max-width：500p×；/* 最大宽度限制 */
+           }
 .nailong{
-
-}
+          width:100%;
+         }
